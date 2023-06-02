@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Js, Node Js, Vue**
 
-- 📝 First my website [https://arifmuhamad.my.id/](https://arifmuhamad.my.id/)
+- 📝 First my website [https://marifnurrohman.com/](https://marifnurrohman.com/)
 
 - 💬 Ask me about **laravel, api, codeigniter**
 
