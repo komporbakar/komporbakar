@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **freelance web development**
 
-- 🌱 My Tech Stack **React Js, Node Js, Next.js, Laravel, PHP, Javascript**
+- 🌱 My Tech Stack **React Js, Node Js, Next.js, Laravel, PHP, Go lang, Javascript**
 
 - 📝 Personal website [https://marifnurrohman.com/](https://marifnurrohman.com/)
 
